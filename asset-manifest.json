@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/software/static/css/main.57a69384.chunk.css",
-    "main.js": "/software/static/js/main.2497f02a.chunk.js",
-    "main.js.map": "/software/static/js/main.2497f02a.chunk.js.map",
-    "runtime-main.js": "/software/static/js/runtime-main.6034bf3e.js",
-    "runtime-main.js.map": "/software/static/js/runtime-main.6034bf3e.js.map",
-    "static/css/2.de424728.chunk.css": "/software/static/css/2.de424728.chunk.css",
-    "static/js/2.84c18459.chunk.js": "/software/static/js/2.84c18459.chunk.js",
-    "static/js/2.84c18459.chunk.js.map": "/software/static/js/2.84c18459.chunk.js.map",
-    "index.html": "/software/index.html",
-    "precache-manifest.20baec2716f0a18fc5ee35d7a4b272a5.js": "/software/precache-manifest.20baec2716f0a18fc5ee35d7a4b272a5.js",
-    "service-worker.js": "/software/service-worker.js",
-    "static/css/2.de424728.chunk.css.map": "/software/static/css/2.de424728.chunk.css.map",
-    "static/css/main.57a69384.chunk.css.map": "/software/static/css/main.57a69384.chunk.css.map",
-    "static/js/2.84c18459.chunk.js.LICENSE.txt": "/software/static/js/2.84c18459.chunk.js.LICENSE.txt",
-    "static/media/PresentationCss.css": "/software/static/media/bk.759ca98f.jpg",
-    "static/media/sadcat.jpg": "/software/static/media/sadcat.d063600a.jpg",
-    "static/media/sadcat2.jpg": "/software/static/media/sadcat2.cc44720d.jpg"
+    "main.css": "/software2/static/css/main.9af60003.chunk.css",
+    "main.js": "/software2/static/js/main.6a969377.chunk.js",
+    "main.js.map": "/software2/static/js/main.6a969377.chunk.js.map",
+    "runtime-main.js": "/software2/static/js/runtime-main.a360853c.js",
+    "runtime-main.js.map": "/software2/static/js/runtime-main.a360853c.js.map",
+    "static/css/2.de424728.chunk.css": "/software2/static/css/2.de424728.chunk.css",
+    "static/js/2.c64b6544.chunk.js": "/software2/static/js/2.c64b6544.chunk.js",
+    "static/js/2.c64b6544.chunk.js.map": "/software2/static/js/2.c64b6544.chunk.js.map",
+    "index.html": "/software2/index.html",
+    "precache-manifest.965890829965d82b0a8d997c74fc8a65.js": "/software2/precache-manifest.965890829965d82b0a8d997c74fc8a65.js",
+    "service-worker.js": "/software2/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/software2/static/css/2.de424728.chunk.css.map",
+    "static/css/main.9af60003.chunk.css.map": "/software2/static/css/main.9af60003.chunk.css.map",
+    "static/js/2.c64b6544.chunk.js.LICENSE.txt": "/software2/static/js/2.c64b6544.chunk.js.LICENSE.txt",
+    "static/media/PresentationCss.css": "/software2/static/media/bk.759ca98f.jpg",
+    "static/media/sadcat.jpg": "/software2/static/media/sadcat.d063600a.jpg",
+    "static/media/sadcat2.jpg": "/software2/static/media/sadcat2.cc44720d.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6034bf3e.js",
+    "static/js/runtime-main.a360853c.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.84c18459.chunk.js",
-    "static/css/main.57a69384.chunk.css",
-    "static/js/main.2497f02a.chunk.js"
+    "static/js/2.c64b6544.chunk.js",
+    "static/css/main.9af60003.chunk.css",
+    "static/js/main.6a969377.chunk.js"
   ]
 }
